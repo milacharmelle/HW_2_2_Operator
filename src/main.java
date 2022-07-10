@@ -10,9 +10,9 @@ public class main {
         } else {
             bonus = 0;
         }
-        int abonentBalans = balans + pay + bonus;
+        int abonBalans = balans + pay + bonus;
 
-        System.out.println("Баланс: " + abonentBalans);
+        System.out.println("Баланс: " + abonBalans);
         System.out.println("Бонуc: " + bonus);
 
 
