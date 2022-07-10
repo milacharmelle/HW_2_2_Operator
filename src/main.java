@@ -13,7 +13,7 @@ public class main {
         int abonentBalans = balans + pay + bonus;
 
         System.out.println("Баланс: " + abonentBalans);
-        System.out.println("Бонус: " + bonus);
+        System.out.println("Бонуc: " + bonus);
 
 
     }
