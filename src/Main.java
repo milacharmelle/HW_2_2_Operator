@@ -5,7 +5,7 @@ public class Main {
         int bonus;
         int sum = balans + pay;
 
-        if (pay >= 1_000) {
+        if (pay > 1_000) {
             bonus = pay / 100;
         } else {
             bonus = 0;
